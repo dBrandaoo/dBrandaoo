@@ -8,7 +8,6 @@
 </div>
 <p><u>dbrandao1139@gmail.com</u></p>
 
-
 <h2>Main technologies I use</h2>
 <div style="display: flex;">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -37,5 +36,7 @@
 
 <h2>Learning</h2>
 <p>Focusing on <b>JavaScript</b> and <b>React</b></p>
+
+<hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dBrandaoo&layout=compact&theme=dark)](https://github.com/dBrandaoo/github-readme-stats)
