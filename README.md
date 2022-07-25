@@ -1,5 +1,5 @@
 <head>
-<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0" />
 </head>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font='Source+Code+Pro'&size=24&duration=4000&color=F7F7F7&vCenter=true&width=500&lines=%3E+echo+Hello!+%3E%3E+your.screen;Hello!)](https://git.io/typing-svg)
@@ -38,7 +38,9 @@
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
 
-<h2>Learning <span class="material-icons">&#xE87C;</span> </h2>
+<h2>Learning <span class="material-symbols-outlined">
+search
+</span> </h2>
 <p>Focusing on <b>JavaScript</b> and <b>React</b></p>
 
 <hr>
