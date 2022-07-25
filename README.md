@@ -1,10 +1,8 @@
-<head>
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0" />
-</head>
-  
+<div style="outline: 2px solid black">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font='Source+Code+Pro'&size=24&duration=4000&color=F7F7F7&vCenter=true&width=500&lines=%3E+echo+Hello!+%3E%3E+your.screen;Hello!)](https://git.io/typing-svg)
 <hr>
-
+</div>
+  
 <h2>Where to find me</h2>
 <div style="display:flex;">
   <a href="not ready"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
