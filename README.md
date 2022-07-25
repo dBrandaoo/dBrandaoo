@@ -9,7 +9,7 @@
 </div>
 <p>dbrandao1139@gmail.com</p>
 
-<h2>Main technologies I use</h2>
+<h2>:computer: Main technologies I use</h2>
 <div style="display: flex;">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -22,7 +22,7 @@
 </div>
 
 
-<h2>Other technologies I've worked with</h2>
+<h2>:computer: Other technologies I've worked with</h2>
 <div style="display: flex;">
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
 
-<h2>Learning</h2>
+<h2>:books: Learning</h2>
 <p>Focusing on <b>JavaScript</b> and <b>React</b></p>
 
 <hr>
