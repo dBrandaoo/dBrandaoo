@@ -11,7 +11,7 @@
 
 <h2>Main technologies I use</h2>
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,tailwind,js,ts,react,py,mysql)](https://skills.thijs.gg)
-
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,wasm)](https://skills.thijs.gg)
 <h2>Other technologies I've worked with</h2>
 <div style="display: flex;">
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
