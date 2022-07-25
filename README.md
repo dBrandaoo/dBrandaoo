@@ -3,7 +3,7 @@
 
 <h2>Where to find me</h2>
 <div style="display:flex;">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="www.google.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </div>
 <p>You can also contact me @ dbrandao1139@gmail.com</p>
