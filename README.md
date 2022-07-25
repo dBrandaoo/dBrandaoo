@@ -6,7 +6,7 @@
   <a href="not ready"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://discordapp.com/users/929860540778569798/"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </div>
-<p>dbrandao1139@gmail.com</p>
+<p><u>dbrandao1139@gmail.com</u></p>
 
 
 <h2>Main technologies I use</h2>
@@ -37,3 +37,5 @@
 
 <h2>Learning</h2>
 <p>Focusing on <b>JavaScript</b> and <b>React</b></p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dBrandaoo&layout=compact)](https://github.com/dBrandaoo/github-readme-stats)
