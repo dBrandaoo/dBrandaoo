@@ -10,9 +10,7 @@
 <p><u>dbrandao1139@gmail.com</u></p>
 
 <h2>Main technologies I use</h2>
-<div style="display: flex;">
-  [![My Skills](https://skills.thijs.gg/icons?i=html,css,tailwind,js,ts,react,py,mysql)](https://skills.thijs.gg)
-</div>
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,tailwind,js,ts,react,py,mysql)](https://skills.thijs.gg)
 
 <h2>Other technologies I've worked with</h2>
 <div style="display: flex;">
