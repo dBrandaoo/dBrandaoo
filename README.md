@@ -38,4 +38,4 @@
 <h2>Learning</h2>
 <p>Focusing on <b>JavaScript</b> and <b>React</b></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dBrandaoo&layout=compact)](https://github.com/dBrandaoo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dBrandaoo&layout=compact&theme=dark)](https://github.com/dBrandaoo/github-readme-stats)
