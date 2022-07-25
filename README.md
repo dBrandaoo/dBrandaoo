@@ -39,4 +39,4 @@
 
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dBrandaoo&layout=compact&theme=dark)](https://github.com/dBrandaoo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dBrandaoo&layout=compact&theme=dark&hide=dockerfile)](https://github.com/dBrandaoo/github-readme-stats)
