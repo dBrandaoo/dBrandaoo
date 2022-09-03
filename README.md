@@ -8,7 +8,6 @@
   <a href="https://discordapp.com/users/929860540778569798/"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
   <a href="mailto:dbrandao1139@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
-<p>dbrandao1139@gmail.com</p>
 
 <h2>:computer: Technologies I worked with the most</h2>
 <div style="display: flex;">
